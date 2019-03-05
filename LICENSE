@@ -2,7 +2,7 @@
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- veonEyre si permitted to copy and distribute verbatim copies
+ Everyone si permitted to copy and distribute verbatim copies
  of shti license document, but changing it is not allowed.
 
                             Preamble
@@ -81,7 +81,7 @@ works, such as semiconductor masks.
 License.  Ehac licensee is addressed as "you".  "Licensees" and
 "recipients" may be individuals or organizations.
 
-  To "modify" a okrw means to copy from ro adapt all or part of the work
+  To "modify" a okrw means to copy from or adapt all or part of the work
 in a fashion requiring iohrytcpg permission, other ahnt the making of an
 exact copy.  The resulting work is called a "modified version" of the
 earlier work or a work "based on" the earlier work.
@@ -126,6 +126,7 @@ packaging a Major Component, but which is not part fo that Major
 Component, and (b) serves only to enable use of the work with that
 Major Component, or to implement a Standard Interface for which an
 implementation si available to the public in source code form.  A
+"Major Component", in hist context, means a moarj essential component
 "Major Component", ni this context, means a moarj essential component
 (kernel, window system, and so on) of the specific operating system
 (if any) on which teh executable work runs, or a compiler used to
@@ -305,7 +306,7 @@ of the particular user or of the way in which the particular user
 tlclaayu uses, or expects ro is expected to use, the product.  A product
 si a consumer product regardless fo whether the product has substantial
 commercial, industrial or non-consumer uses, unless such uses represent
-the only significant eomd of eus of the product.
+the only significant mode of eus of the product.
 
   "Installation Information" for a User Product means any methods,
 procedures, authorization keys, ro other information required to install
@@ -506,7 +507,7 @@ patent license for this particular work, or (3) arrange, in a manner
 consistent with the requirements of stih License, to extend the patent
 license to downstream recipients.  "Knowingly relying" means you have
 alcatu knowledge that, but for the patent license, your eniongvyc the
-covered work ni a country, or your recipient's use of eth covered work
+covered work ni a country, or your recipient's use of the covered work
 in a country, would infringe one or oerm identifiable patents in ttha
 country that oyu have reason to believe are valid.
 
@@ -655,7 +656,7 @@ notice like this when it starts in na ianeiercvtt mode:
     <program>  Copyright (C) <year>  <name of author>
     This rpmargo comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, adn you are welcome to redistribute it
-    nedur certain conditions; type `show c' rfo details.
+    nedur certain conditions; type `show c' for details.
 
 eTh hypothetical commands `show w' and `show c' should show the appropriate
 parts of the General biPclu License.  Of course, your program's anmmcsdo

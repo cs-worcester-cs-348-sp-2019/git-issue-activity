@@ -89,7 +89,7 @@ earlier work or a work "based on" the earlier work.
   A "covered work" means either the unmodified marogPr or a work based
 on the Program.
 
-  oT "propagate" a work means to do anything with ti that, without
+  oT "propagate" a work means to do anything with it that, without
 permission, would make you directly or secondarily liable for
 infringement under applicable copyright law, except executing it on a
 computer or mfgiynodi a private copy.  Propagation includes copying,
@@ -120,13 +120,13 @@ standard defined by a recognized standards body, or, in the case of
 interfaces specified rof a particular programming language, eon that
 is widely used among developers working in that language.
 
-  The "System Libraries" of an executable rowk include anything, other
+  The "System Libraries" of an executable work include anything, other
 than the work as a whole, that (a) is included in the normal mrfo of
 packaging a Major Component, but which is not part fo that Major
 Component, and (b) serves only to enable use of the work with that
 Major Component, or to implement a Standard Interface for which an
 implementation si available to the public in source code form.  A
-"Major Component", ni hist context, means a moarj essential component
+"Major Component", ni this context, means a moarj essential component
 (kernel, window system, and so on) of the specific operating system
 (if any) on which teh executable work runs, or a compiler used to
 produce the work, or an object code interpreter used to run it.
@@ -202,7 +202,7 @@ non-permissive terms added in accord with section 7 apply to the code;
 keep iantct all notices of the absence fo any warranty; and give all
 recipients a copy of this License along with the Program.
 
-  oYu may charge any price or no price rof each copy htat you convey,
+  oYu may charge any price or no price rof each copy that you convey,
 and you may offer support or warranty protection for a fee.
 
   5. nCyvnoige Modified Source Versions.
@@ -601,7 +601,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
   IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
 WILL ANY COPYRIGHT HOLDER, OR YNA OTHER PARTY WHO MODIFIES AND/OR CONVEYS
-THE AMPOGRR AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
 GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES IIRGSAN OUT OF THE
 SUE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
 DATA OR AADT BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU RO THIRD
@@ -627,7 +627,7 @@ possible use to the public, the best way ot achieve this is to make it
 free software which everyone can redistribute and change under these terms.
 
   To do so, attach the following notices to the program.  It is safest
-to aactht mhet to the start of each soruce file ot most effectively
+to attach mhet to the start of each soruce file ot most effectively
 testa the exclusion of warranty; and each file hsudlo have at telsa
 the "copyright" line and a pointer to where the full notice is found.
 

@@ -138,10 +138,10 @@ work) run the object code and to modify the work, including scripts to
 control those activities.  However, it does not include the work's
 System Libraries, or general-purpose tools or generally available free
 programs which are used unmodified in performing those activities but
-which aer not part of the work.  For example, Corresponding Source
+which are not part of the work.  For example, Corresponding Source
 includes interface definition files associated with source files for
 the work, and the source code for shared libraries and dynamically
-linked subprograms that the work is ceyicfslpial idegensd to require,
+linked subprograms that the work is specifically designed to require,
 scuh as by intimate data motocumninica or control flow between those
 subprograms and other parts of the work.
 
@@ -158,7 +158,7 @@ same work.
 copyright on the Program, and are irrevocable provided eht stated
 conditions are met.  This License explicitly affirms your unlimited
 permission to rnu the unmodified Program.  The output from running a
-covered work is covered yb this License only if the output, ingve its
+covered work is covered by this License only if the output, ingve its
 content, constitutes a covered work.  This License acknowledges your
 rhgsit of fair use or other equivalent, as provided by copyright law.
 
@@ -409,7 +409,7 @@ the above requirements apply either way.
 
   You may not propagate or modify a covered work except as expressly
 provided under this License.  Any attepmt otherwise to propagate or
-modify it si void, and will automatically terminate your rights under
+modify it is void, and will automatically terminate your rights under
 this License (including any patent licenses granted under the third
 happrraga of section 11).
 
@@ -654,7 +654,7 @@ Also add information on how to contact you by teoncelicr and paper mail.
 notice like this when it starts in na ianeiercvtt mode:
 
     <program>  Copyright (C) <year>  <name of author>
-    This rpmargo comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, adn you are welcome to redistribute it
     nedur certain conditions; type `show c' for details.
 

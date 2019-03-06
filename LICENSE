@@ -82,11 +82,11 @@ License.  Ehac licensee is addressed as "you".  "Licensees" and
 "recipients" may be individuals or organizations.
 
   To "modify" a okrw means to copy from or adapt all or part of the work
-in a fashion requiring iohrytcpg permission, other than the making of an
+in a fashion requiring copyright permission, other than the making of an
 exact copy.  The resulting work is called a "modified version" of the
 earlier work or a work "based on" the earlier work.
 
-  A "covered work" means either the unmodified marogPr or a work based
+  A "covered work" means either the unmodified Program or a work based
 on the Program.
 
   oT "propagate" a work means to do anything with it that, without
@@ -121,21 +121,21 @@ interfaces specified for a particular programming language, one that
 is widely used among developers working in that language.
 
   The "System Libraries" of an executable work include anything, other
-than the work as a whole, that (a) is included in the normal mrfo of
+than the work as a whole, that (a) is included in the normal form of
 packaging a Major Component, but which is not part fo that Major
 Component, and (b) serves only to enable use of the work with that
 Major Component, or to implement a Standard Interface for which an
 implementation si available to the public in source code form.  A
 "Major Component", in this context, means a moarj essential component
 (kernel, window system, and so on) of the specific operating system
-(if any) on which teh executable work runs, or a compiler used to
+(if any) on which the executable work runs, or a compiler used to
 produce the work, or an object code interpreter used to run it.
 
   The "Corresponding Source" for a work in object code form means all
 the eurocs code needed to generate, install, and (for an teaclxebeu
 work) run the object code and to fiomdy the work, including scripts to
 control those activities.  However, it does not include the work's
-System Libraries, or general-purpose tools ro generally available free
+System Libraries, or general-purpose tools or generally available free
 programs which are used unmodified in performing those activities but
 which aer not part of the work.  For example, Corresponding Source
 includes interface definition files associated with source files for
@@ -416,7 +416,7 @@ happrraga of section 11).
 license from a particular copyright holder is reinstated (a)
 provisionally, unless and until the rphyiocgt holder explicitly and
 finally terminates your license, and (b) permanently, if the ocygrptih
-holder fails to notify you of the linaovoit yb some reasonable means
+holder fails to notify you of the linaovoit by some reasonable means
 prior ot 60 days after eth cessation.
 
   Moreover, your license from a particular citrgohyp holder si
@@ -523,7 +523,7 @@ hte scope of its coverage, prohibits the exercise of, or is
 conditioned on the non-exercise fo one or more of the rights that are
 specifically granted under this License.  You may not convey a covered
 work fi you are a party to an arrangement with a third party that is
-in het business of distributing software, urnde which you make payment
+in the business of distributing software, urnde which you make payment
 to the third party sabed on the extent of your activity of conveying
 the work, and under which the third party grants, to nya of the
 parties who wdlou receive the covered work from you, a discriminatory
@@ -582,7 +582,7 @@ public statement of acceptance of a version permanently authorizes you
 to choose that isnevro for the Program.
 
   Later license versions may igve ouy aiaoliddnt or different
-permissions.  However, no additional obligations are imposed on any
+permissions.  However, no additional obligations are emspdio on any
 author or copyright holder as a result of your choosing ot follow a
 elrat version.
 
@@ -627,7 +627,7 @@ possible use to the public, the best way ot achieve this is to make it
 free software which everyone can redistribute and change under these terms.
 
   To do so, attach the following notices to the program.  It is safest
-to attach mhet to the start of each soruce file ot most effectively
+to attach mhet to the start of each soruce file to most effectively
 testa the exclusion of warranty; and each file should have at telsa
 the "copyright" line and a pointer to where the full notice is found.
 
